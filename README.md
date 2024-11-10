@@ -4,8 +4,8 @@
 
 <p>Basic Calculator Project where I utilizie classes, methods, and objects to creata a simple arithmentic calculator.
     <br>The Calculator can: 
-    Add two integers
-    Subtract two integers
-    Divide two integers
-    Apply the modulo operator on two integers
+    <br>Add two integers
+    <br>Subtract two integers
+    <br>Divide two integers
+    <br>Apply the modulo operator on two integers
  </p>
